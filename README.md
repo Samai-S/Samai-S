@@ -2,6 +2,7 @@ Samai Soares Pereira
 
 UFMG - Sistemas de Informaçao
 
-Learning C/C++
+C/C++/Python/Java SpringBoot/SQL
 
+Learning C#
 
